@@ -2,6 +2,6 @@
 
 ## Estudiante:
 
-Brahiam Acosta Bedoya
-C.C: 1000762385
+Brahiam Acosta Bedoya  
+C.C: 1000762385  
 Ingeniería de sistemas
